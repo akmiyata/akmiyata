@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @akmiyata
-- 👀 I’m interested in embedded systems software.
-- 🌱 I’m currently learning Embedded Systems and Power Electronics at the University of Colorado- Boulder. 
-- 💞️ I’m looking to collaborate on novel, challenging projects! Currently, I'm learning about magnetic circuit theory, various microcontrollers, and deepening my understanding of the C programming language.
-- 📫 How to reach me: Email: adam.miyata@colorado.edu | LinkedIn: https://www.linkedin.com/in/adam-miyata-0b1153164
+Senior Analytics Engineer | 20 years of quantitative experience across actuarial, life sciences, and data engineering. MSEE (Embedded Systems).
 
-<!---
-akmiyata/akmiyata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm building
+arcflow — A Python-native alternative to dbt for data transformations.
+
+Hybrid execution: DuckDB for local dev, Snowflake for production
+Column-level lineage via sqlglot — not just table-level
+No Jinja, no YAML-based DAGs — just Python
+
+What I'm writing about
+
+Data infrastructure is the prerequisite for AI — not the other way around (Post 1)
+Compute management vs. agent management (Post 2 — coming soon)
+
+Background
+I manage ~350 dbt transformation models as a one-person analytics engineering team in cell therapy (pharma). Before that, I spent years in actuarial and financial consulting. My grad work was in embedded systems and power electronics — I still think in signals and control loops.
+Current interests
+
+AI agent workflows and orchestration (Claude Code power user)
+Python-native data transformation tooling
+Prediction market microstructure
+Robotics investing (ROBO, BOTZ, ROBT)
+Zone 2 training & HRV tracking
+
+Stack
+Python · SQL · dbt · Snowflake · DuckDB · sqlglot · Pydantic · React · Node.js
